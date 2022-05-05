@@ -1,0 +1,15 @@
+rule_extraction.py
+extract rules of ANN, LSTM, MTL from different methods with the decision tree as the baseline.
+
+generalneuralnetwork.py
+give the accuracy of ANN based on the subject belief database
+
+lstm_dl.py
+give the accuracy of LSTM based on the subject belief database
+
+multi_task_learning.py
+give the accuracy of MTL based on the subject belief database
+
+Preprocessing_dataset.py
+preprocessing the Preprocessing_dataset
+
